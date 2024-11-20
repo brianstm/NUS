@@ -14,7 +14,6 @@ The repository includes various types of files such as:
 - **Personal Assignments & Projects**  
 - **Notes**  
 - **Codes**  
-- **Past Exam Papers**  
 
 ### Disclaimer
 Please note that this repository is for personal archival purposes and is **not intended for academic misconduct**. Use these materials responsibly and in compliance with your institution's academic integrity guidelines.
