@@ -25,5 +25,3 @@ If you have any questions or would like to connect, feel free to reach out to me
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-red.svg)](https://opensource.org/licenses/Apache-2.0)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Brians%20Tjipto-0A66C2.svg?logo=linkedin)](https://www.linkedin.com/in/brians-tjipto-a25850153/)
-"# NUS" 
-"# NUS" 
