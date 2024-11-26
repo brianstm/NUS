@@ -1,5 +1,7 @@
 # NUS Archive
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=brianstm.NUS)
+
 ## About This Repository
 
 Hi! My name is **Brians Tjipto**, and this repository contains **all the files I’ve ever had during my time as an Electrical Engineering student at the National University of Singapore (NUS)**. 
