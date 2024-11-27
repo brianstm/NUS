@@ -2,27 +2,41 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=brianstm.NUS)
 
-## About This Repository
+## Welcome to My NUS Archive! 👋
 
-Hi! My name is **Brians Tjipto**, and this repository contains **all the files I’ve ever had during my time as an Electrical Engineering student at the National University of Singapore (NUS)**. 
+Hi there! I’m **Brians Tjipto**, and this repository is a collection of **everything I worked on during my time as an Electrical Engineering student at the National University of Singapore (NUS)**.
 
-The purpose of this repository is to serve as:
-- A comprehensive archive of my academic journey.
-- A potential resource for other students to refer to.
-- A personal record to look back on and appreciate the work I’ve done.
+This repository serves as:
 
-### Contents
-The repository includes various types of files such as:
+- A **comprehensive archive** of my academic journey.
+- A **resource** that might be helpful for fellow students and learners.
+- A **personal record** to revisit and reflect on the growth and effort over the years.
+
+You can explore this archive here on GitHub or visit it as a website:  
+👉 [**brians-tjipto.vercel.app/nus**](https://brians-tjipto.vercel.app/nus)
+
+### What You'll Find Here 📚
+
+This repository contains a variety of files, including:
+
 - **Personal Assignments & Projects**  
+  Unique tasks and projects I completed as part of my coursework.
 - **Notes**  
-- **Codes**  
+  Study notes and materials compiled over my semesters.
+- **Code**  
+  Programs and scripts written for academic projects and assignments.
 
-### Disclaimer
-Please note that this repository is for personal archival purposes and is **not intended for academic misconduct**. Use these materials responsibly and in compliance with your institution's academic integrity guidelines.
+### A Quick Note 📢
 
+This repository is intended for **personal archival purposes** and is **not meant to encourage academic misconduct**. Please use these materials responsibly and in line with your institution’s academic integrity guidelines.
 
-## Contact
-If you have any questions or would like to connect, feel free to reach out to me! 😊
+### Let’s Connect! 🌟
 
-[![License](https://img.shields.io/badge/License-Apache%202.0-red.svg)](https://opensource.org/licenses/Apache-2.0)
+Got questions, feedback, or just want to say hi? Feel free to reach out — I’d love to hear from you! 😊
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Brians%20Tjipto-0A66C2.svg?logo=linkedin)](https://www.linkedin.com/in/brians-tjipto-a25850153/)
+
+### License
+
+[![License](https://img.shields.io/badge/License-Apache%202.0-red.svg)](https://opensource.org/licenses/Apache-2.0)  
+This project is licensed under the Apache 2.0 License.
