@@ -4,7 +4,7 @@
 
 ## Welcome to My NUS Archive! 👋
 
-Hi there! I’m **Brians Tjipto**, and this repository is a collection of **everything I worked on during my time as an Electrical Engineering student at the National University of Singapore (NUS)**.
+Hi there! I&apos;m **Brians Tjipto**, and this repository is a collection of **everything I worked on during my time as an Electrical Engineering student at the National University of Singapore (NUS)**.
 
 This repository serves as:
 
@@ -30,9 +30,9 @@ This repository contains a variety of files, including:
 
 This repository is intended for **personal archival purposes** and is **not meant to encourage academic misconduct**. Please use these materials responsibly and in line with your institution’s academic integrity guidelines.
 
-### Let’s Connect! 🌟
+### Let&apos;s Connect! 🌟
 
-Got questions, feedback, or just want to say hi? Feel free to reach out — I’d love to hear from you! 😊
+Got questions, feedback, or just want to say hi? Feel free to reach out — I&apos;d love to hear from you! 😊
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Brians%20Tjipto-0A66C2.svg?logo=linkedin)](https://www.linkedin.com/in/brians-tjipto-a25850153/)
 
