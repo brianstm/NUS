@@ -13,7 +13,7 @@ This repository serves as:
 - A **personal record** to revisit and reflect on the growth and effort over the years.
 
 You can explore this archive here on GitHub or visit it as a website:  
-👉 [**brians-tjipto.vercel.app/nus**](https://brians-tjipto.vercel.app/nus)
+👉 [**https://www.brianstjipto.xyz/nus**](https://www.brianstjipto.xyz/nus)
 
 ### What You'll Find Here 📚
 
